@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sync Chron Tech Pvt. Ltd.<br>👯 I’m looking to collaborate on MERN related Websites<br>🌱 I’m currently learning MERN Technology and also JAVA<br>💬 Ask me about React, Node js and also JavaScript<br>⚡ Fun fact - I completed my graduation BSc in EEE<br>![fa-earth-asia](fa-earth-asia)https://ahsan-shakil.netlify.app/ 
+🔭 I’m currently working on Sync Chron Tech Pvt. Ltd.<br>👯 I’m looking to collaborate on MERN related Websites<br>🌱 I’m currently learning MERN Technology and also JAVA<br>💬 Ask me about React, Node js and also JavaScript<br>⚡ Fun fact - I completed my graduation BSc in EEE<br>![fa-earth-asia](fa-earth-asia.svg)https://ahsan-shakil.netlify.app/ 
 
 
 ## 🌐 Socials:
